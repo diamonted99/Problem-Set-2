@@ -1,0 +1,5 @@
+Declare variables
+Initalize loop
+Input the amount of lines 
+add 1 '#' to each line
+Stop once line amount reached 
